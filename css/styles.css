@@ -1,12 +1,20 @@
 .sidebar {
   width: 30%;
   float: inline-end;
-  background-color: indigo;
+  background-color: grey;
 }
 .column {
   width: 500px;
   float: right;
 }
-img {
+.img {
   float:inherit;
+  padding: 20px;
+  border: 5px solid blue;
+}
+.border {
+  padding: 10px;
+  border: 4px solid red;
+  padding: 5px;
+  margin: 10px;
 }
